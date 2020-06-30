@@ -1,6 +1,6 @@
 # Python-for-Financial-Analysis-and-Algorithmic-Trading
 
-![image](./images/)trading.png)
+![image](./images/trading.png)
 
 ## Course Description
 
